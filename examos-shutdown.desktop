@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Name=Quit exam
+Comment=End exam and shuts down the computer
+Exec=/usr/bin/examos-shutdown
+Terminal=false
+Type=Application
+Icon=examos-shutdown
